@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**MatteoBernard/MatteoBernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bonjour, je suis Matteo Bernard
+### Je recherche une alternance en informatique à partir de janvier 2024 !
 
-Here are some ideas to get you started:
+Je suis actuellement étudiant en première année de BUT Informatique, à l'IUT de Lens.
+J'aime les nouvelles technologies et la programmation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ici, je poste des projets de cours, mais également des projets personnels.
+
+### Mes compétences
+
+- Java / JavaFX
+- Python
+- HTML / CSS
+- SQL / PostgreSQL
+- Bash
+
+### Mes projets
+
+### Comment me contacter
+
+Si vous souhaitez discuter avec moi, n'hésitez pas à me contacter ici :
+
+- Email : bernard.matteo.travail@gmail.com
+- LinkedIn : https://www.linkedin.com/in/matt%C3%A9o-bernard-00137a255/
+

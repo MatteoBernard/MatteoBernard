@@ -17,6 +17,9 @@ Ici, je poste des projets de cours, mais également des projets personnels.
 
 ### Mes projets
 
+- Dive'in
+- Le juste prix
+
 ### Comment me contacter
 
 Si vous souhaitez discuter avec moi, n'hésitez pas à me contacter ici :

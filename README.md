@@ -14,12 +14,14 @@ Ici, je poste des projets de cours, mais également des projets personnels.
 - HTML / CSS
 - SQL / PostgreSQL
 - Bash
+- PHP (en cours d'apprentissage)
 
 ### Mes projets
 
 - Dive'in
 - Le juste prix
 - OWLdle
+- FlappyCapy (en cours de développement)
 
 ### Comment me contacter
 

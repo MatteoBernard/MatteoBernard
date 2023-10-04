@@ -13,7 +13,6 @@ Ici, je poste des projets de cours, mais également des projets personnels.
 - Python
 - HTML / CSS
 - SQL / PostgreSQL
-- Bash
 - PHP (en cours d'apprentissage)
 
 ### Mes projets

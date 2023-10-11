@@ -1,6 +1,5 @@
 
 ### Bonjour, je suis Matteo Bernard
-### Je recherche une alternance en informatique à partir de janvier 2024 !
 
 Je suis actuellement étudiant en première année de BUT Informatique, à l'IUT de Lens.
 J'aime les nouvelles technologies et la programmation.

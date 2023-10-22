@@ -1,7 +1,7 @@
 
 ### Bonjour, je suis Matteo Bernard
 
-Je suis actuellement étudiant en première année de BUT Informatique, à l'IUT de Lens.
+Je suis actuellement étudiant en deuxième année de BUT Informatique, à l'IUT de Lens.
 J'aime les nouvelles technologies et la programmation.
 
 Ici, je poste des projets de cours, mais également des projets personnels.

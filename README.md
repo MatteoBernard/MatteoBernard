@@ -19,7 +19,7 @@ Ici, je poste des projets de cours, mais également des projets personnels.
 - Dive'in
 - Le juste prix
 - OWLdle
-- FlappyCapy (en cours de développement)
+- FlappyCapy
 
 ### Comment me contacter
 

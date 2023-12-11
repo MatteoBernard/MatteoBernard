@@ -17,7 +17,8 @@ Ici, je poste des projets de cours, mais également des projets personnels.
 ### Mes projets
 
 - Dive'in
-- Le juste prix
+- Portfolio
+- Mastermind TCP
 - OWLdle
 - FlappyCapy
 - Raytracer

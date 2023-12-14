@@ -11,8 +11,8 @@ Ici, je poste des projets de cours, mais également des projets personnels.
 - Java / JavaFX
 - Python
 - HTML / CSS
-- SQL / PostgreSQL
-- PHP (en cours d'apprentissage)
+- SQL / PLSQL
+- PHP / Laravel
 
 ### Mes projets
 

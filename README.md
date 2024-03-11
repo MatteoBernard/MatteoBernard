@@ -18,10 +18,9 @@ Ici, je poste des projets de cours, mais également des projets personnels.
 
 - Dive'in
 - Portfolio
-- Mastermind TCP
 - OWLdle
 - FlappyCapy
-- Raytracer
+- JADex
 
 ### Comment me contacter
 

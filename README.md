@@ -8,11 +8,9 @@ Ici, je poste des projets de cours, mais également des projets personnels.
 
 ### Mes compétences
 
-- Java / JavaFX
-- Python
-- HTML / CSS
-- SQL / PLSQL
-- PHP / Laravel
+- Programmation : Java, Python, PHP
+- Développement web : HTML / CSS, JS / TS, PHP / Laravel
+- Base de données : SQL, PSQL
 
 ### Mes projets
 

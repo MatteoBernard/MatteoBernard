@@ -1,29 +1,32 @@
 
-### Bonjour, je suis Matteo Bernard
+# Bernard Matteo
 
-Je suis actuellement étudiant en deuxième année de BUT Informatique, à l'IUT de Lens.
-J'aime les nouvelles technologies et la programmation.
+## About Me
 
-Ici, je poste des projets de cours, mais également des projets personnels.
+I am a junior fullstack developer, I like to discover and learn new technologies.   
 
-### Mes compétences
+At the moment, I am focusing on web development, particularly on Typescript, and associated frameworks.  
 
-- Programmation : Java, Python, PHP
-- Développement web : HTML / CSS, JS / TS, PHP / Laravel
-- Base de données : SQL, PSQL
+Later, I would like to train on native mobile development.
 
-### Mes projets
+## Skills
+- Web development
+- Mobile development
+- Software development
+- Agile / Scrum methodology
 
-- Dive'in
-- Portfolio
-- OWLdle
-- FlappyCapy
-- JADex
+## Recent Projects
 
-### Comment me contacter
+### [SkylandersApi](https://github.com/MatteoBernard/SkylandersApi)
+Rest API, made in Javascript / Express.
 
-Si vous souhaitez discuter avec moi, n'hésitez pas à me contacter ici :
+### [SkylandersWiki](https://github.com/MatteoBernard/SkylandersWiki)
+Hybrid mobile application, made in Typescript / React Native.
 
-- Email : bernard.matteo.travail@gmail.com
-- LinkedIn : https://www.linkedin.com/in/matt%C3%A9o-bernard-00137a255/
+### [FlappyCapy](https://github.com/MatteoBernard/FlappyCapy)
+Resumption of the Flappy Bird game, made in Python / Pygame.
 
+## Other informations
+- Email: bernard.matteo.travail@gmail.com
+- LinkedIn: [Bernard Matteo](https://www.linkedin.com/in/matt%C3%A9o-bernard-00137a255/)
+- Personal Website: [My portfolio](https://matteobernard.github.io/portfolio/)

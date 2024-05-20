@@ -16,6 +16,9 @@ Later, I would like to train on native mobile development.
 
 ## Recent Projects 🛠️
 
+### [Statify](https://github.com/MatteoBernard/Statify)
+Spotify stat tool, made in React.
+
 ### [SkylandersApi](https://github.com/MatteoBernard/SkylandersApi)
 Rest API, made in Javascript / Express.
 

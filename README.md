@@ -17,10 +17,10 @@ Later, I would like to train on native mobile development.
 ## Recent Projects 🛠️
 
 ### [Statify](https://github.com/MatteoBernard/Statify)
-Spotify stat tool, made in React.
+Spotify stat tool, made in Typescript / React.
 
-### [SkylandersApi](https://github.com/MatteoBernard/SkylandersApi)
-Rest API, made in Javascript / Express.
+### [PawkeDex](https://github.com/MatteoBernard/PawkeDex)
+Pokedex for mobile, made in Typescript / React Native.
 
 ### [SkylandersWiki](https://github.com/MatteoBernard/SkylandersWiki)
 Hybrid mobile application, made in Typescript / React Native.

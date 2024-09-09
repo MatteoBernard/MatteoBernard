@@ -2,17 +2,20 @@
 
 ## About Me ℹ️
 
-I am a junior fullstack developer, I like to discover and learn new technologies.   
-
-At the moment, I am focusing on web development, particularly on Typescript, and associated frameworks.  
-
-Later, I would like to train on native mobile development.
+I'm a junior fullstack developer, currently focused on mastering Java, TypeScript and modern frameworks.
 
 ## Skills 🚀
-- Web development
-- Mobile development
-- Software development
-- Agile / Scrum methodology
+
+- **Front-end Development**
+- **Back-end Development** 
+- **Mobile Development**
+- **Unit & Functional Testing** 
+- **Database Management**
+
+## GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatteoBernard&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoBernard&layout=compact&theme=radical)
+
 
 ## Recent Projects 🛠️
 
